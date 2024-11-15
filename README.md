@@ -1,3 +1,3 @@
 # Garden GUI
 
-This is the graphical user interface for the Garden assignment PA-5
+This is the graphical user interface for the Garden assignment PA-5.
