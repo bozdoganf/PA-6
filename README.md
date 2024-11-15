@@ -1,3 +1,3 @@
 # Garden GUI
 
-This is the
+This is the graphical user interface
